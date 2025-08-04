@@ -1,0 +1,16 @@
+{
+  "name": "18-practicanode",
+  "version": "1.0.0",
+  "description": "primeros pasos con nodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "modules"
+  ],
+  "author": "Claudia Ximena Barrientos",
+  "license": "MIT",
+  "type": "commonjs"
+}
