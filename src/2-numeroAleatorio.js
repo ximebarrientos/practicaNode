@@ -13,7 +13,7 @@ let min=1;
 let max=100;
 
 //verificar si tengo valores en args
-if(args.length===0){
+if(args.length===2){
     // pasar de string a number
     const minParseado=parseInt(args[0]);
     const maxParseado=parseInt(args[1]);
