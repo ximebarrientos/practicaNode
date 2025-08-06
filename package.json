@@ -12,5 +12,5 @@
   ],
   "author": "Claudia Ximena Barrientos",
   "license": "MIT",
-  "type": "commonjs"
+  "type": "module"
 }
