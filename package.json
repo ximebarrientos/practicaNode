@@ -12,5 +12,8 @@
   ],
   "author": "Claudia Ximena Barrientos",
   "license": "MIT",
-  "type": "commonjs"
+  "type": "commonjs",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
 }
